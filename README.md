@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Interactive
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |

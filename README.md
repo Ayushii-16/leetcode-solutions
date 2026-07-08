@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0739-daily-temperatures](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

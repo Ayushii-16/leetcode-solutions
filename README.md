@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum

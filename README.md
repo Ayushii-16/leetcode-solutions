@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0735-asteroid-collision](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0416-partition-equal-subset-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0994-rotting-oranges](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Euclidean Algorithm
 |  |
 | ------- |

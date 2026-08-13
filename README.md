@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0509-fibonacci-number) |

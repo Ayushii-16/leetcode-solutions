@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2951-find-the-peaks](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3731-find-missing-elements](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |

@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Geometry
 |  |

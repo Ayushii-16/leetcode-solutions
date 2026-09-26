@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3731-find-missing-elements) |

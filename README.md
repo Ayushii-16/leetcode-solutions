@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -325,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

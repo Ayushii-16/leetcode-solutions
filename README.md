@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

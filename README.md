@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0268-missing-number) |
 | [0826-most-profit-assigning-work](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |

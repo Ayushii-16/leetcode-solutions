@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |

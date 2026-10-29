@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ayushii-16/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1732-find-the-highest-altitude](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayushii-16/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |

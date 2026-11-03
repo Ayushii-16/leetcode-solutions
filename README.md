@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ayushii-16/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Ayushii-16/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
